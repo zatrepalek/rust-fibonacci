@@ -1,0 +1,8 @@
+[package]
+name = "fibonacci"
+version = "0.1.0"
+edition = "2021"
+
+# Usage: ./target/debug/fibonacci 30 or cargo run -- 30
+
+[dependencies]
